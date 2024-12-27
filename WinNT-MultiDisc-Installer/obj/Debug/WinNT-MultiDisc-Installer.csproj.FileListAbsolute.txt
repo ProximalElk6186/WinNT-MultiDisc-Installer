@@ -1,0 +1,10 @@
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\bin\Debug\WinNT-MultiDisc-Installer.exe
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\bin\Debug\WinNT-MultiDisc-Installer.pdb
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT-MultiDisc-Installer.csproj.AssemblyReference.cache
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT_MultiDisc_Installer.Form1.resources
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT_MultiDisc_Installer.Form2.resources
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT_MultiDisc_Installer.Properties.Resources.resources
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT-MultiDisc-Installer.csproj.GenerateResource.cache
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT-MultiDisc-Installer.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT-MultiDisc-Installer.exe
+C:\Users\Andrei\Documents\GitHub\WinNT-MultiDisc-Installer\WinNT-MultiDisc-Installer\obj\Debug\WinNT-MultiDisc-Installer.pdb
